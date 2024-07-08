@@ -1,0 +1,1 @@
+--These solutions are javascript codes of Project Euler Problems that I solved to improve my algorithmic thinking skills. 
