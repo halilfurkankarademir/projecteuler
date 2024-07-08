@@ -1,4 +1,4 @@
-function calculate(){
+function evenFibanocci(){
   let x=1;
   let y=2;
   let sum=0;
@@ -12,4 +12,4 @@ function calculate(){
   }
   console.log(sum);
 }
-calculate();
+evenFibanocci();
